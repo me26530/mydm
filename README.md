@@ -1,9 +1,9 @@
-ok影视外挂弹幕-基于LogVar(第十二版)
+ok影视外挂弹幕-基于LogVar(第十三版)
 
 功能更新
 
 仅适配 OK 影视、影视两大平台
 
-1.兼容安卓6设备
+1.弹幕配置新增二维码访问远程配置页功能
 
-2.影视新增放大镜图标
+使用步骤参考：https://bks.indevs.in/usage/player-guide/fongmi
