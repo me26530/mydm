@@ -14,7 +14,7 @@
           "https://logo.saodu.work:8888/87654321|公益源1",
           "https://dm.626258.xyz/87654321|公益源2"
         ],
-        "titleMappingsUrl": "./yins.json"
+        "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json"
       }
     }
   ]
